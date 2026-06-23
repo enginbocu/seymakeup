@@ -10,5 +10,8 @@ export default defineNuxtConfig({
     '~/plugins/swiper.client.ts',
     '~/plugins/element-plus.client.ts',
     '~/plugins/bootstrap.client.ts'
-  ]
+  ],
+  app: {
+    baseURL: '/seymakeup/'
+  }
 })
