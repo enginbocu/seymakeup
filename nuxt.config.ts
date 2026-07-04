@@ -12,6 +12,6 @@ export default defineNuxtConfig({
     '~/plugins/bootstrap.client.ts'
   ],
   app: {
-    baseURL: '/seymakeup/'
+    baseURL: '/'
   }
 })
